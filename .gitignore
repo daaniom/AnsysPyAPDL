@@ -1,0 +1,19 @@
+# Virtuele omgeving
+bin/
+include/
+lib/
+lib64/
+share/
+etc/
+pyvenv.cfg
+
+# Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Log-, cache- en tijdelijke bestanden
+*.log
+__pycache__/
+*.pyc
+*.pyo
+
+
